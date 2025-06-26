@@ -12,3 +12,7 @@ We can add pets with their names, species (like dogs,cats etc.) and age.
 we can display details of pets using function display_info() and if their age is less than 10 they are eligible for adoption and this can be checked by using function is_eligible_for_adoption()
 
 
+#4th Car_rent
+In here we can add some car detials like it's model(like Swift,etc), year of manufacture and if it is available for rent or not
+By default car is available for rent and by the function rent_car() availability can be set to False and using  return_car() availability can be set to True
+Using display_status() car information can be printed.
